@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on a [Udemy Course for Data Science][website]!
 - 🌱 I’m currently learning everything Python, Data Analysis, SQL, and studying for my Actuarial Exam 
-- 👯 I’m looking to collaborate with other 
-- 🥅 2020 Goals: 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I'm looking for more projects to analyze things that I enjoy
+- 🥅 2020 Goals: Get a start on a new career
+- ⚡ Fun fact: I've recently gotten into hammocking and playing disc golf
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mike_racz64)
