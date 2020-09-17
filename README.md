@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a [Udemy Course for Data Science][website]!
+- 🔭 I’m currently working on a [Udemy Course for Data Science][UdemyCourse]!
 - 🌱 I’m currently learning everything Python, Data Analysis, SQL, and studying for my Actuarial Exam 
 - 👯 I'm looking for more projects to analyze things that I enjoy
 - 🥅 2020 Goals: Get a start on a new career
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[UdemyCourse]: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
