@@ -15,13 +15,14 @@
 <br />
 
 ### Languages and Tools:
-C++
-Java
-Python
-SQL - MySQL
-Data Visualization
-Visual Studio Code
-Anaconda- Jupyter Notebook
+
+ - C++
+ - Java
+ - Python
+ - SQL - MySQL
+ - Data Visualization
+ - Visual Studio Code
+ - Anaconda- Jupyter Notebook
 
 
 <br />
